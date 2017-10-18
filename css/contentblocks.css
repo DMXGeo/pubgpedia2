@@ -1,0 +1,26 @@
+p{
+    margin: 0;
+    padding: 0;
+}
+
+#Block1{
+    font-family: "Special Elite";
+    font-size: 23pt;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#Block2{
+    font-family: "Special Elite";
+    font-size: 23pt;
+    color: white;
+    padding-left: 10px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: #940004;
+}
+
+#Block2 p{
+    color: black;
+}

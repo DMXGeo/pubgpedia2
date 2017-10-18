@@ -1,0 +1,58 @@
+body{
+    background-image: linear-gradient(to bottom, black 0%, black 100%), url(https://d1wfiv6sf8d64f.cloudfront.net/static/pc/img/backgroundart.jpg);
+    background-blend-mode: screen;
+    background-repeat: no-repeat;
+}
+
+#Header{
+    position: relative;
+    background-color: antiquewhite;
+    height: 100pt;
+    line-height: 110pt;
+    vertical-align: middle;
+    text-align: center;
+    font-family: "Special Elite";
+}
+
+#Header h1{
+    position: relative;
+    font-size: 55pt;
+    margin: auto;
+    padding-left: 1em;
+}
+
+#Header a{
+    text-decoration: none;
+    color: black;
+}
+
+#Navigation{
+    background-color: #940004;
+    text-decoration: none;
+    font-family: "Special Elite";
+    text-align: center;
+    float: left;
+    height: 35pt;
+    line-height: 17.5pt;
+    width: 100%;
+}
+
+#Navigation li{
+    display: inline;
+}
+
+#Navigation li a{
+    text-decoration: none;
+    color: white;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 18pt;
+}
+
+#Container{
+    background-color: antiquewhite;
+    width: 1366px;
+    height: 100em;
+    clear: both;
+    margin: 2em auto 2em auto;
+}
